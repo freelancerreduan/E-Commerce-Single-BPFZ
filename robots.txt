@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+1/ Pending order Problem Solutions Step by step
+    ANS=====
+    i)  Order_item -> order_id -> end last Number check
+    ii) Go to ORDER table -> show all -> and check Last Number .
+    iii)Extra Number Deleted form -> ORDER table 
+    iv) Check Pending Order
+    v)  Successfully Work Completed
